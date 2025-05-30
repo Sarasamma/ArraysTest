@@ -2,7 +2,7 @@
 public class Arrays {
 
 	public static void main(String[] args) {
-// Revering array elements ([70,35,15,40,10]) and printing smallest,largest,average and sum of the elements in the array		
+// Reversing array elements ([70,35,15,40,10]) and printing smallest,largest,average and sum of the elements in the array		
 int arr[]= {10,40,15,35,70};
 int large=arr[0];
 int small=arr[0];
